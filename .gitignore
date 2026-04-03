@@ -1,0 +1,26 @@
+# Generated files
+driver_map.html
+driver_map_demo.html
+
+# Compiled binaries
+ride_sharing_cars
+ride_sharing_cars.exe
+*.o
+*.out
+*.a
+
+# Build directories
+build/
+builds/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
